@@ -1,0 +1,12 @@
+*{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABliGvz3knMp47svEiZg1T9Ui9GCw8nAQ-g&usqp=CAU);
+    margin: 0;
+    padding: 0;
+}
+
+.h1 {
+    font-family: 'comic sans ms';
+    font-weight: bold;
+    color: black;
+    width: auto;
+}
